@@ -8,4 +8,4 @@ function accum(str) {
   return result.join("-");
 }
 
-console.log(accum("cwAT"));
+console.log(accum("cwAT")); // mumble: "C-Ww-Aaa-Tttt"
